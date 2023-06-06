@@ -5,7 +5,7 @@ function initEmbeddedMessaging() {
       embeddedservice_bootstrap.init(
               '00DU0000000IF1g',
               'Veritone_In_App_Support_Chat_Messaging',
-              'https://veritone-inc.force.com/ESWVeritoneInAppSuppor1663956198145',
+              'https://veritone.my.site.com/ESWVeritoneInAppSuppor1663956198145',
               {
                 scrt2URL: 'https://veritone.my.salesforce-scrt.com'
               }
